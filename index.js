@@ -40,7 +40,7 @@ export default definePlugin({
 
                 if (!url) {
                     return {
-                        content: `\`${type}\ was not found rawr :(``
+                        content: `\`${type}\ was not found rawr :(`
                     };
                 }
 
